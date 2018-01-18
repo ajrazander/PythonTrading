@@ -1,0 +1,4 @@
+INTU
+APC
+GOOG
+AAPL
